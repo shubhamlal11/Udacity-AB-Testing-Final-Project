@@ -53,10 +53,9 @@ were signed in when they visited the course overview page.
 
 ### Metric Choice
 
-***Invariant Metrics :** number of cookies, number of clicks,
-click-through-probability.*
+_**Invariant Metrics :** number of cookies, number of clicks, click-through-probability._
 
-***Evaluation Metrics :** gross conversion, retention, net conversion.*
+_**Evaluation Metrics :** gross conversion, retention, net conversion._
 
 #### Invariant Metrics
 
@@ -198,11 +197,15 @@ Power***
 
 #### Net Conversion
 
--Baseline Conversion: 10.9313% -Minimum Detectable Effect: 0.75% -Alpha:
-5% -Beta: 20% -Sensitivity (1 - Beta): 80% -Sample size = 27,413
-enrollments/group -Number of groups = 2 (experiment and control) -Total
-sample size = 54,826 enrollments -Enrollments/pageview: 3200/40000 =
-0.08 clicks/pageview -Pageviews = 6,85,325
+* Baseline Conversion: 10.9313% 
+* Minimum Detectable Effect: 0.75% 
+* Alpha: 5% -Beta: 20% 
+* Sensitivity (1 - Beta): 80% 
+* Sample size = 27,413 enrollments/group 
+* Number of groups = 2 (experiment and control) 
+* Total sample size = 54,826 enrollments 
+* Enrollments/pageview: 3200/40000 = 0.08 clicks/pageview 
+* Pageviews = 6,85,325
 
 *Pageviews required is maximum of pageviews required for Gross
 Conversion, Retention, Net Conversion. Therefore, the required pageviews
@@ -228,9 +231,9 @@ other experiments of interest to be performed concurrently.
 Experiment Analysis
 -------------------
 
-The experiment data can be found in the following links - - [Control
-Group Data](/data/Final%20Project%20Results%20-%20Control) - [Experiment
-Group Data](/data/Final%20Project%20Results%20-%20Experiment)
+The experiment data can be found in the following links :
+* [Control Group Data](/data/Final%20Project%20Results%20-%20Control) 
+* [Experiment Group Data](/data/Final%20Project%20Results%20-%20Experiment)
 
 ### Sanity Checks
 
