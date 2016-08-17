@@ -158,7 +158,7 @@ Sizing
 ------
 
 The following calculation is based on [baseline conversion
-data](/data/basline_vals.csv).
+data](/data/baseline_vals.csv).
 
 ### Number of Samples vs Power
 
