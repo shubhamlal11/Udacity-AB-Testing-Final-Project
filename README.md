@@ -32,15 +32,15 @@ The primary aim of Udacity is to improve the overall student experience
 and improve coaches' capacity to support students who are likely to
 complete the course.
 
-***Null Hypothesis :** The null hypothesis is that this approach might
+**Null Hypothesis :** The null hypothesis is that this approach might
 not make a significant change and might not be effective in reducing the
-early Udacity course cancellation.*
+early Udacity course cancellation.
 
-***Alternative Hypothesis :** The alternative hypothesis is that this
+**Alternative Hypothesis :** The alternative hypothesis is that this
 might reduce the number of frustrated students who left the free trial
 because they didn't have enough time, without significantly reducing the
 number of students to continue past the free trial and eventually
-complete the course.*
+complete the course.
 
 Experimental Design
 -------------------
@@ -173,19 +173,28 @@ Power***
 
 #### Gross Conversion
 
--Baseline Conversion: 20.625% -Minimum Detectable Effect: 1% -Alpha: 5%
--Beta: 20% -Sensitivity (1 - Beta): 80% -sample size = 25,835
-enrollments/group -Number of groups = 2 (experiment and control) -Total
-sample size = 51,670 enrollments -Clicks/Pageview: 3200/40000 = 0.08
-clicks/pageview -Pageviews Required = 6,45,875
+* Baseline Conversion: 20.625%
+* Minimum Detectable Effect: 1% 
+* Alpha: 5%
+* Beta: 20% -Sensitivity (1 - Beta): 80% 
+* Sample Size = 25,835 enrollments/group 
+* Number of groups = 2 (experiment and control) 
+* Total sample size = 51,670 enrollments 
+* Clicks/Pageview: 3200/40000 = 0.08 clicks/pageview 
+* Pageviews Required = 6,45,875
 
 #### Retention
 
--Baseline Conversion: 53% -Minimum Detectable Effect: 1% -Alpha: 5%
--Beta: 20% -Sensitivity (1 - Beta): 80% -Sample size = 39,155
-enrollments/group -Number of groups = 2 (experiment and control) -Total
-sample size = 78,230 enrollments -Enrollments/pageview: 660/40000 =
-0.0165 enrollments/pageview -Pageviews = 78,230/0.0165 = 47,41,212
+* Baseline Conversion: 53% 
+* Minimum Detectable Effect: 1% 
+* Alpha: 5%
+* Beta: 20% 
+* Sensitivity (1 - Beta): 80% 
+* Sample size = 39,155 enrollments/group 
+* Number of groups = 2 (experiment and control) 
+* Total sample size = 78,230 enrollments 
+* Enrollments/pageview: 660/40000 = 0.0165 enrollments/pageview 
+* Pageviews = 78,230/0.0165 = 47,41,212
 
 #### Net Conversion
 
